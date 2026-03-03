@@ -1,3 +1,18 @@
+## 2. Grading Policy & Attendance
+
+| Assessment Item | Weight | Details |
+| --- | --- | --- |
+| **Midterm Exam** | 20% | In-class, Closed book |
+| **Final Exam** | 20% | In-class, Closed book |
+| **Assignments** | 60% | Term project 1, Term project 2 |
+
+### ⚠️ Strict Attendance Policy (University Regulation)
+
+* **80% Requirement:** Attending less than 80% of classes results in an **automatic F grade**, regardless of exam scores.
+* **Random Sampling:** Attendance is checked via random sampling at the **beginning** of each class.
+* **No Tardy Policy:** We only record **Present** or **Absent**.
+* *If you are not there during the check, you are marked absent (No "Late" status).*
+* 
 ## Weekly plan
 
 | Week | Topic | Content | Notes |

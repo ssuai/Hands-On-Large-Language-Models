@@ -1,10 +1,13 @@
-## 2. Grading Policy & Attendance
+## Grading Policy
 
 | Assessment Item | Weight | Details |
 | --- | --- | --- |
 | **Midterm Exam** | 20% | In-class, Closed book |
 | **Final Exam** | 20% | In-class, Closed book |
-| **Assignments** | 60% | Term project 1, Term project 2 |
+| **Term project 1** | 30% | Individual |
+| **Term project 2** | 30% | Individual |
+
+*It's a project oriented course!*
 
 ### ⚠️ Strict Attendance Policy (University Regulation)
 

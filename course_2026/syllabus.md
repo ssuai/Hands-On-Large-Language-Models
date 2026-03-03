@@ -2,10 +2,11 @@
 
 | Assessment Item | Weight | Details |
 | --- | --- | --- |
-| **Midterm Exam** | 20% | In-class, Closed book |
-| **Final Exam** | 20% | In-class, Closed book |
 | **Term project 1** | 30% | Individual |
+| **Midterm Exam** | 20% | In-class, Closed book |
 | **Term project 2** | 30% | Individual |
+| **Final Exam** | 20% | In-class, Closed book |
+
 
 *It's a project oriented course!*
 

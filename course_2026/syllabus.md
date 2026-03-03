@@ -1,3 +1,7 @@
+## Textbook
+*  Hands-On Large Language Models, Jay Alammar and Maarten Grootendorst (2024)
+* Official github repo: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+* 
 ## Grading Policy
 
 | Assessment Item | Weight | Details |

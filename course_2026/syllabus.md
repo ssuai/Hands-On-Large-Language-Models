@@ -7,16 +7,14 @@
 | **Term project 2** | 30% | Individual |
 | **Final Exam** | 20% | In-class, Closed book |
 
-
 *It's a project oriented course!*
 
-### ⚠️ Strict Attendance Policy (University Regulation)
+##  Attendance Policy
 
-* **80% Requirement:** Attending less than 80% of classes results in an **automatic F grade**, regardless of exam scores.
-* **Random Sampling:** Attendance is checked via random sampling at the **beginning** of each class.
-* **No Tardy Policy:** We only record **Present** or **Absent**.
-* *If you are not there during the check, you are marked absent (No "Late" status).*
-* 
+* University Regulation: Attending less than 80% of classes results in an **automatic F grade**, regardless of exam scores.
+* Attendance will be checked via *random sampling* at the *beginning* of each class.
+* Present or Absent. *If you are not there during the check, you are marked absent (No "Late" status).*
+
 ## Weekly plan
 
 | Week | Topic | Content | Notes |

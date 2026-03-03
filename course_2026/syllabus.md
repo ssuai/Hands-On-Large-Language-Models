@@ -23,7 +23,7 @@
 | 11 | Text embedding models | Chapter 10: Creating Text Embedding Models | Training custom embedding models |
 | 12 | Fine-tuning for classification | Chapter 11: Fine-Tuning Representation Models for Classification | BERT-style fine-tuning workflows |
 | 13 | Fine-tuning generation models | Chapter 12: Fine-Tuning Generation Models | SFT, instruction tuning, evaluation, alignment |
-| 14 | Course review & project  | Comprehensive review + student projects | Project-oriented practice, Hands-on project presentations, Q&A, trends discussion |
+| 14 | Course review & project  | Review + student projects | Review, Q&A, discussion, project |
 | 15 | **Final exam**, **term project 2** | Final Exam (Ch. 1–12, in-class, closed-book), individual term proejct | |
 
 ## Grading Policy

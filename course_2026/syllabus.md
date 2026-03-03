@@ -1,23 +1,10 @@
 ## Textbook
 *  Hands-On Large Language Models, Jay Alammar and Maarten Grootendorst (2024)
+  
+<img src="../images/book_cover.png" width="20%" >
+
 * Official github repo: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
-* 
-## Grading Policy
 
-| Assessment Item | Weight | Details |
-| --- | --- | --- |
-| **Term project 1** | 30% | Individual |
-| **Midterm Exam** | 20% | In-class, Closed book |
-| **Term project 2** | 30% | Individual |
-| **Final Exam** | 20% | In-class, Closed book |
-
-*It's a project oriented course!*
-
-##  Attendance Policy
-
-* University Regulation: Attending less than 80% of classes results in an **automatic F grade**, regardless of exam scores.
-* Attendance will be checked via *random sampling* at the *beginning* of each class.
-* Present or Absent. *If you are not there during the check, you are marked absent (No "Late" status).*
 
 ## Weekly plan
 
@@ -38,3 +25,20 @@
 | 13 | Fine-tuning generation models | Chapter 12: Fine-Tuning Generation Models | SFT, instruction tuning, evaluation, alignment |
 | 14 | Course review & project  | Comprehensive review + student projects | Project-oriented practice, Hands-on project presentations, Q&A, trends discussion |
 | 15 | **Final exam**, **term project 2** | Final Exam (Ch. 1–12, in-class, closed-book), individual term proejct | |
+
+## Grading Policy
+
+| Assessment Item | Weight | Details |
+| --- | --- | --- |
+| **Term project 1** | 30% | Individual |
+| **Midterm Exam** | 20% | In-class, Closed book |
+| **Term project 2** | 30% | Individual |
+| **Final Exam** | 20% | In-class, Closed book |
+
+*It's a project oriented course!*
+
+##  Attendance Policy
+
+* University Regulation: Attending less than 80% of classes results in an **automatic F grade**, regardless of exam scores.
+* Attendance will be checked via *random sampling* at the *beginning* of each class.
+* Present or Absent. *If you are not there during the check, you are marked absent (No "Late" status).*
